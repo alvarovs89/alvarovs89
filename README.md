@@ -41,7 +41,7 @@ I'm an Industrial Engineer from Chile 🇨🇱 with a Master of Data Science fro
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/alvarovaldes/) (insert your link here)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alvarovaldes/)
 - 💌 Feel free to message me in English or Spanish!
 
 Thanks for stopping by! 🙌
